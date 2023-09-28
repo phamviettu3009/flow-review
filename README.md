@@ -13,6 +13,7 @@
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/create-group.png" width="200" height="432" alt="create group screen">
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/group-edit.png" width="200" height="432" alt="edit group screen">
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/group-info.png" width="200" height="432" alt="group info screen">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/group-members.png" width="200" height="432" alt="group members screen">
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/user-edit.png" width="200" height="432" alt="user edit screen">
 </p>
 
