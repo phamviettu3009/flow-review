@@ -1,6 +1,5 @@
 # Flow
 **Android:** <br>
-[Link tải](https://install.appcenter.ms/users/300998pt-gmail.com/apps/flow/distribution_groups/flow)
 
 <p float="left">
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/login-screen.png" width="200" height="432" alt="login screen">
