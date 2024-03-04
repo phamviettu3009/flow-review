@@ -21,5 +21,5 @@
 </p>
 
 **Flow:** <br>
-![flow](https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/flow.png)
+![flow](https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/FlowPNG.drawio.png)
 
