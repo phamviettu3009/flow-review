@@ -1,4 +1,17 @@
 # Flow
+
+**IOS:** <br>
+
+<p float="left">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 17.48.47.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 17.48.57.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 17.49.12.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 17.58.52.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 18.06.37.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 18.06.42.png" width="200" height="432" alt="">
+  <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 18.06.59.png" width="200" height="432" alt="">
+</p>
+
 **Android:** <br>
 
 <p float="left">
