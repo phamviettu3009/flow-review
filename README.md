@@ -33,6 +33,3 @@
   <img src="https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/user-edit.png" width="200" height="432" alt="user edit screen">
 </p>
 
-**Flow:** <br>
-![flow](https://github.com/phamviettu3009/flow-folder/blob/main/flow-img/FlowPNG.drawio.png)
-
